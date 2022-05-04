@@ -1,0 +1,16 @@
+image {
+    padding: 0;
+} 
+
+p {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Updock', cursive; 
+    font-size: large; 
+    color: black;
+} 
+
+card-text {
+
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Updock', cursive;
+}

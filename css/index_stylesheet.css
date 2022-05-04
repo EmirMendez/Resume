@@ -1,0 +1,32 @@
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
+
+p.solid {
+    border-style: solid;
+} 
+
+h3 {
+    border: 3px;
+    border-color: rgb(0, 0, 0); 
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-family: 'Updock', cursive;
+    color: blueviolet;
+} 
+
+body{
+    color:green ;
+} 
+
+p {
+    font: 1em sans-serif;
+}
